@@ -1,14 +1,14 @@
 {
-  "name": "ts-address-validator",
+  "name": "typescript-radix-address-validation",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
-  "license": "MTT",
+  "license": "Apache-2.0",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
